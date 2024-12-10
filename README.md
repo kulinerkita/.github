@@ -1,7 +1,7 @@
 <h1 align="center">
-  🍲KulinerKita🥄 - Stay in Style, See with Confidence
+  🍲KulinerKita🥄 - Savor Local Cuisine, Protect the Global Environment
 </h1>
-<p align="center">Bangkit Product-Based Capstone Project | Team <b>CH2-PS291</b> </p>
+<p align="center">Bangkit Product-Based Capstone Project | Team <b>CH242-PS155</b> </p>
 
 <p align="center">
   <img src="https://github.com/Capstone-OptiCool/.github/blob/main/profile/logo-01%201.png" alt="logo" width="200" height="200">
@@ -38,9 +38,9 @@ KulinerKita is a mobile application that combines technology and culinary touris
 
 ## 📚 Learning Path Repository
 For more information, check out each learning path to see the individual documentation:
-- [Machine Learning](https://github.com/Capstone-OptiCool/ML)
-- [Cloud Computing](https://github.com/Capstone-OptiCool/CC)
-- [Mobile Development](https://github.com/Capstone-OptiCool/Mobile-App)
+- [Machine Learning](https://github.com/kulinerkita/ML)
+- [Cloud Computing](https://github.com/kulinerkita/CC)
+- [Mobile Development](https://github.com/kulinerkita/Mobile-App)
 
 ## 🖥️ Tech Stack
 1. **Machine Learning 🧠**: TensorFlow and Keras
@@ -77,7 +77,7 @@ Here are the endpoints used by Opticool
 
 ### Model Training Performance
 <div align="center">
-  <img src="https://github.com/Capstone-OptiCool/.github/blob/main/profile/ML-performance.png" alt="ML-performance" width="800px" 
+  <img src="https://github.com/kulinerkita/.github/blob/main/grafik%20mae.png" alt="ML-performance" width="800px" 
 />
 </div>
 
