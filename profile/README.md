@@ -91,6 +91,8 @@ Here are the endpoints used by Opticool
   <img src="https://github.com/kulinerkita/.github/blob/main/profile/Onboarding%205.png" alt="Screenshot 8" width="180" />
   <img src="https://github.com/kulinerkita/.github/blob/main/profile/SignIn.png" alt="Screenshot 2" width="180" />
   <img src="https://github.com/kulinerkita/.github/blob/main/profile/SignUp.png" alt="Screenshot 3" width="180" />
+  <img src="https://github.com/kulinerkita/.github/blob/main/profile/Kategori.jpeg" alt="Screenshot 3" width="180" />
+  <img src="https://github.com/kulinerkita/.github/blob/main/profile/Restaurant%20Detail.jpeg" alt="Screenshot 3" width="180" />
 </div>
 
 ### 💻 Download Locally
