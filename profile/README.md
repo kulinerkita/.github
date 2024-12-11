@@ -43,9 +43,9 @@ For more information, check out each learning path to see the individual documen
 - [Mobile Development](https://github.com/kulinerkita/Mobile-App)
 
 ## 🖥️ Tech Stack
-1. **Machine Learning 🧠**: TensorFlow and Keras
-2. **Mobile Development 📱**: Android (Kotlin)
-3. **Cloud Computing ☁️**: Google Cloud Platform (GCP)
+1. **Machine Learning 🧠**: TensorFlow, Scikit-Learn, Keras, Numpy, Pandas, and Matplotlib
+2. **Mobile Development 📱**: Android Studio, Android, Kotlin, and Figma
+3. **Cloud Computing ☁️**: NodeJS, Express JS, MySql, and Google Cloud
 
 ## 🪶 Features
 1. **Find Your Face Shape 📸**: OptiCool helps you figure out whether you're more of an oval, round, square, or heart. All with a quick selfie.
