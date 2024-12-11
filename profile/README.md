@@ -4,7 +4,7 @@
 <p align="center">Bangkit Product-Based Capstone Project | Team <b>CH242-PS155</b> </p>
 
 <p align="center">
-  <img src="https://github.com/Capstone-OptiCool/.github/blob/main/profile/logo-01%201.png" alt="logo" width="200" height="200">
+  <img src="https://github.com/kulinerkita/.github/blob/main/profile/logo1.png" alt="logo" width="200" height="200">
 </p>
 
 ## 🚀 About KulinerKita
@@ -83,25 +83,25 @@ Here are the endpoints used by Opticool
 
 ## 📱 App Display
 <div>
-  <img src="https://github.com/Capstone-OptiCool/.github/blob/main/profile/Screenshot_20231221_221359.png" alt="Screenshot 1" width="180" />
-  <img src="https://github.com/Capstone-OptiCool/.github/blob/main/profile/Screenshot_20231221_215823.png" alt="Screenshot 2" width="180" />
-  <img src="https://github.com/Capstone-OptiCool/.github/blob/main/profile/Screenshot_20231221_215850.png" alt="Screenshot 3" width="180" />
-  <img src="https://github.com/Capstone-OptiCool/.github/blob/main/profile/Screenshot_20231221_215928.png" alt="Screenshot 4" width="180" />
-  <img src="https://github.com/Capstone-OptiCool/.github/blob/main/profile/Screenshot_20231221_215947.png" alt="Screenshot 5" width="180" />
-  <img src="https://github.com/Capstone-OptiCool/.github/blob/main/profile/Screenshot_20231221_222619.png" alt="Screenshot 6" width="180" />
-  <img src="https://github.com/Capstone-OptiCool/.github/blob/main/profile/Screenshot_20231221_221346.png" alt="Screenshot 7" width="180" />
-  <img src="https://github.com/Capstone-OptiCool/.github/blob/main/profile/Screenshot_20231221_220104.png" alt="Screenshot 8" width="180" />
+  <img src="https://github.com/kulinerkita/.github/blob/main/profile/Splash%20Screen.png" alt="Screenshot 1" width="180" />
+  <img src="https://github.com/kulinerkita/.github/blob/main/profile/SignIn.png" alt="Screenshot 2" width="180" />
+  <img src="https://github.com/kulinerkita/.github/blob/main/profile/SignUp.png" alt="Screenshot 3" width="180" />
+  <img src="https://github.com/kulinerkita/.github/blob/main/profile/Onboarding%201.png" alt="Screenshot 4" width="180" />
+  <img src="https://github.com/kulinerkita/.github/blob/main/profile/Onboarding%202.png" alt="Screenshot 5" width="180" />
+  <img src="https://github.com/kulinerkita/.github/blob/main/profile/Onboarding%203.png" alt="Screenshot 6" width="180" />
+  <img src="https://github.com/kulinerkita/.github/blob/main/profile/Onboarding%204.png" alt="Screenshot 7" width="180" />
+  <img src="https://github.com/kulinerkita/.github/blob/main/profile/Onboarding%205.png" alt="Screenshot 8" width="180" />
 </div>
 
 ### 💻 Download Locally
 Setting up project for local usage.
 1. Clone or Download this repository
     ```shell
-    git clone https://github.com/Capstone-OptiCool/Mobile-App.git
+    git clone https://github.com/kulinerkita/Mobile-App.git
     ```
     if using SSH
     ```shell
-    git clone git@github.com:Capstone-OptiCool/Mobile-App.git
+    git clone git@github.com:kulinerkita/Mobile-App.git
     ```
 2. Open using Android Studio
 3. Build gradle, or change it to your preferences, recomended version 8.x.x
