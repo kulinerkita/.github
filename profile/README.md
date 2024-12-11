@@ -53,7 +53,7 @@ For more information, check out each learning path to see the individual documen
 3. **Explore Glasses Marketplace 🛒**: OptiCool not only finds the ideal glasses for you but also directs you to the best places to grab them.
 
 ## 📍 Endpoints
-Here are the endpoints used by Opticool
+Here are the endpoints used by KulinerKita
 
 **Auth and Database API**
 
@@ -63,15 +63,13 @@ Here are the endpoints used by Opticool
 	Creating a unique session token for the user
 - **'/user'**
 	Retrieving user data from the database
-- **'/eyeglass'**
-	Retrieving eyeglass data from the database
-- **'/eyeglass/{id}'**
-	Retrieving eyeglass data who have same id as a parameter from the url endpoint from the database
+- **`/GET /restaurants/search?`**
+	Search for restaurants based on various filters.
 
 **Machine Learning API**
 
  - **'/predict'**
-	Sending face photos for AI prediction
+   	send restaurant results with the closest distance
 
 ## 🚀 Our Model Performance - Face Shape Detection
 
