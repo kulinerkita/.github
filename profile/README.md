@@ -57,7 +57,7 @@ For more information, check out each learning path to see the individual documen
 ## 📍 Endpoints
 Here are the endpoints used by KulinerKita
 
-**Auth and Database API**
+**Database API**
 
 - **'/GET /restaurants/search?'**
 	Search for restaurants based on various filters.
