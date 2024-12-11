@@ -59,12 +59,6 @@ Here are the endpoints used by KulinerKita
 
 **Auth and Database API**
 
- - **'/register'**
-	User registration using email/password method (saving user data in Cloud SQL)
-- **'/login'**
-	Creating a unique session token for the user
-- **'/user'**
-	Retrieving user data from the database
 - **'/GET /restaurants/search?'**
 	Search for restaurants based on various filters.
 
