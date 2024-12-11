@@ -65,7 +65,7 @@ Here are the endpoints used by KulinerKita
 	Creating a unique session token for the user
 - **'/user'**
 	Retrieving user data from the database
-- **`/GET /restaurants/search?`**
+- **'/GET /restaurants/search?'**
 	Search for restaurants based on various filters.
 
 **Machine Learning API**
