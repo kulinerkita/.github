@@ -1,6 +1,6 @@
 <h1 align="center">
-  🍲KulinerKita🥄 - Savor Local Cuisine, Protect the Global Environment
-</h1>
+  🍲KulinerKita🥄 - Kuliner autentik Surakarta, dalam genggamanmu.
+	
 <p align="center">Bangkit Product-Based Capstone Project | Team <b>CH242-PS155</b> </p>
 
 <p align="center">
