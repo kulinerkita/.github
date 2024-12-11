@@ -84,13 +84,13 @@ Here are the endpoints used by Opticool
 ## 📱 App Display
 <div>
   <img src="https://github.com/kulinerkita/.github/blob/main/profile/Splash%20Screen.png" alt="Screenshot 1" width="180" />
-  <img src="https://github.com/kulinerkita/.github/blob/main/profile/SignIn.png" alt="Screenshot 2" width="180" />
-  <img src="https://github.com/kulinerkita/.github/blob/main/profile/SignUp.png" alt="Screenshot 3" width="180" />
   <img src="https://github.com/kulinerkita/.github/blob/main/profile/Onboarding%201.png" alt="Screenshot 4" width="180" />
   <img src="https://github.com/kulinerkita/.github/blob/main/profile/Onboarding%202.png" alt="Screenshot 5" width="180" />
   <img src="https://github.com/kulinerkita/.github/blob/main/profile/Onboarding%203.png" alt="Screenshot 6" width="180" />
   <img src="https://github.com/kulinerkita/.github/blob/main/profile/Onboarding%204.png" alt="Screenshot 7" width="180" />
   <img src="https://github.com/kulinerkita/.github/blob/main/profile/Onboarding%205.png" alt="Screenshot 8" width="180" />
+  <img src="https://github.com/kulinerkita/.github/blob/main/profile/SignIn.png" alt="Screenshot 2" width="180" />
+  <img src="https://github.com/kulinerkita/.github/blob/main/profile/SignUp.png" alt="Screenshot 3" width="180" />
 </div>
 
 ### 💻 Download Locally
