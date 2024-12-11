@@ -77,15 +77,19 @@ Here are the endpoints used by KulinerKita
 
 ## 📱 App Display
 <div>
-  <img src="https://github.com/kulinerkita/.github/blob/main/profile/Splash%20Screen.png" alt="Screenshot 1" width="180" />
-  <img src="https://github.com/kulinerkita/.github/blob/main/profile/Onboarding%201.png" alt="Screenshot 4" width="180" />
-  <img src="https://github.com/kulinerkita/.github/blob/main/profile/Onboarding%202.png" alt="Screenshot 5" width="180" />
-  <img src="https://github.com/kulinerkita/.github/blob/main/profile/Onboarding%203.png" alt="Screenshot 6" width="180" />
-  <img src="https://github.com/kulinerkita/.github/blob/main/profile/Onboarding%204.png" alt="Screenshot 7" width="180" />
-  <img src="https://github.com/kulinerkita/.github/blob/main/profile/Onboarding%205.png" alt="Screenshot 8" width="180" />
-  <img src="https://github.com/kulinerkita/.github/blob/main/profile/SignIn.png" alt="Screenshot 2" width="180" />
-  <img src="https://github.com/kulinerkita/.github/blob/main/profile/SignUp.png" alt="Screenshot 3" width="180" />
-
+  <img src="https://github.com/kulinerkita/.github/blob/main/profile/splash.jpeg" alt="Screenshot 1" width="180" />
+  <img src="https://github.com/kulinerkita/.github/blob/main/profile/onboarding_1.jpeg" alt="Screenshot 4" width="180" />
+  <img src="https://github.com/kulinerkita/.github/blob/main/profile/onboarding_2.jpeg" alt="Screenshot 5" width="180" />
+  <img src="https://github.com/kulinerkita/.github/blob/main/profile/onboarding_3.jpeg" alt="Screenshot 6" width="180" />
+  <img src="https://github.com/kulinerkita/.github/blob/main/profile/onboarding_4.jpeg" alt="Screenshot 7" width="180" />
+  <img src="https://github.com/kulinerkita/.github/blob/main/profile/onboarding_5.jpeg" alt="Screenshot 8" width="180" />
+  <img src="https://github.com/kulinerkita/.github/blob/main/profile/signup.jpeg" alt="Screenshot 2" width="180" />
+  <img src="https://github.com/kulinerkita/.github/blob/main/profile/signin.jpeg" alt="Screenshot 3" width="180" />
+  <img src="https://github.com/kulinerkita/.github/blob/main/profile/home.jpeg" alt="Screenshot 9" width="180" />
+  <img src="https://github.com/kulinerkita/.github/blob/main/profile/kategori.jpeg" alt="Screenshot 10" width="180" />
+  <img src="https://github.com/kulinerkita/.github/blob/main/profile/detail.jpeg" alt="Screenshot 11" width="180" />
+  <img src="https://github.com/kulinerkita/.github/blob/main/profile/maps.jpeg" alt="Screenshot 12" width="180" />
+  <img src="https://github.com/kulinerkita/.github/blob/main/profile/maps_navigation.jpeg" alt="Screenshot 12" width="180"/>
 </div>
 
 ### 💻 Download Locally
