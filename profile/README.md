@@ -25,7 +25,7 @@ KulinerKita is a mobile application that combines technology and culinary touris
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-## 😎 The Coolers Members
+## 😎 Our Coolest Members
 |            Member           | Student ID |        Path        |                    Role                    |                                                       GitHub Profile                                                      |
 | :-------------------------: | :--------: | :----------------: | :----------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: |
 | Adib Haidar Zaky | M312B4KY0092 | Machine Learning | Machine Learning Engineer | [DreadTyyy](https://github.com/DreadTyyy) |
