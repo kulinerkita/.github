@@ -1,7 +1,7 @@
 <h1 align="center">
   🍲KulinerKita🥄 - Kuliner autentik Surakarta, dalam genggamanmu.
 	
-<p align="center">Bangkit Product-Based Capstone Project | Team <b>CH242-PS155</b> </p>
+<p align="center">Bangkit Product-Based Capstone Project | Team <b>C242-PS155</b> </p>
 
 <p align="center">
   <img src="https://github.com/kulinerkita/.github/blob/main/profile/logo1.png" alt="logo" width="200" height="200">
