@@ -67,7 +67,7 @@ Here are the endpoints used by KulinerKita
  - **'/predict'**
    	send restaurant results with the closest distance
 
-## 🚀 Our Model Performance - Face Shape Detection
+## 🚀 Our Model Performance - Restaurant Recommendation System
 
 ### Model Training Performance
 <div align="center">
@@ -90,6 +90,7 @@ Here are the endpoints used by KulinerKita
   <img src="https://github.com/kulinerkita/.github/blob/main/profile/detail.jpeg" alt="Screenshot 11" width="180" />
   <img src="https://github.com/kulinerkita/.github/blob/main/profile/maps.jpeg" alt="Screenshot 12" width="180" />
   <img src="https://github.com/kulinerkita/.github/blob/main/profile/maps_navigation.jpeg" alt="Screenshot 12" width="180"/>
+  <img src="https://github.com/kulinerkita/.github/blob/main/profile/broadcast.jpeg" alt="Screenshot 12" width="180"/>
 </div>
 
 ### 💻 Download Locally
