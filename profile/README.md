@@ -104,6 +104,6 @@ Setting up project for local usage.
     git clone git@github.com:kulinerkita/Mobile-App.git
     ```
 2. Open using Android Studio
-3. Build gradle, or change it to your preferences, recomended version 8.x.x
+3. Build gradle, or change it to your preferences, recomended version 8.7.0
 4. Emulate using android phone or emulator
    
